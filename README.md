@@ -1,5 +1,5 @@
 # 🚢 DOT PY — Data Science & AI Program
-## Module 01 · Data Preprocessing
+## Module 01 & 02 · Data Preprocessing & ml
 ### In-Class Task Session — Titanic Dataset Pipeline
 
 ---
